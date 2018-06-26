@@ -1,4 +1,4 @@
-# 블로그 소스입니다.
+# 블로그
 
 (https://hsju.github.io)
 
